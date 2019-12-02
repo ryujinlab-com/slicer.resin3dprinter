@@ -18,7 +18,7 @@ LIPS (Ligth Induced Planer Solidification) 광조형 면경화 방식은 류진�
 
 - Serial 통신을 연결한다 : file 의 configure machine 을 선택 후 COM 을 찾아 OK 버튼을 누른다.
 
-  ![com connect](./com connect.JPG)
+  ![com connect](./com_connect.JPG)
  
 - HDMI 선을 Display port 에 연결한다 
 - Windows 화면을 Dual Extention 화면으로 변경한다.
