@@ -1,0 +1,3 @@
+D:\project\OndemandWorkshop\3D_Printer\UVDLPSlicerController-master\UVDLP\Software\PC\UV_DLP_3dPrinter\plugTest\obj\Debug\plugTest.ctlTestControl.resources
+D:\project\OndemandWorkshop\3D_Printer\UVDLPSlicerController-master\UVDLP\Software\PC\UV_DLP_3dPrinter\plugTest\obj\Debug\plugTest.Properties.Resources.resources
+D:\project\OndemandWorkshop\3D_Printer\UVDLPSlicerController-master\UVDLP\Software\PC\UV_DLP_3dPrinter\plugTest\obj\Debug\plugTest.csproj.GenerateResource.Cache
