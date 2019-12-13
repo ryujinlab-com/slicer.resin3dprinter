@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SupportConfig FileVersion="1">
+  <XSpace>5</XSpace>
+  <YSpace>5</YSpace>
+  <MinAdaptiveGap>5</MinAdaptiveGap>
+  <HeadTopRadiusMM>0.2</HeadTopRadiusMM>
+  <HeadBottomRadiusMM>0.5</HeadBottomRadiusMM>
+  <FootTopRadiusMM>0.5</FootTopRadiusMM>
+  <FootBottomRadiusMM>2</FootBottomRadiusMM>
+  <FootBottomIntraRadiusMM>0.2</FootBottomIntraRadiusMM>
+</SupportConfig>
