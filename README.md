@@ -56,4 +56,4 @@ LIPS (Ligth Induced Planer Solidification) 광조형 면경화 방식은 류진�
 
 ## 라이센스
 
-GPL3.0  라이센스
+LGPL2.0  라이센스
